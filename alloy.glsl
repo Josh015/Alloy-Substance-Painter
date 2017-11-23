@@ -1,7 +1,3 @@
-// Alloy Physical Shader Framework
-// Copyright 2013-2017 RUST LLC.
-// http://www.alloy.rustltd.com/
-
 import lib-pbr.glsl
 import lib-pom.glsl
 
