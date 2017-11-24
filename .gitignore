@@ -1,4 +1,9 @@
 # ===================================== #
+# Substance Painter generated           #
+# ===================================== #
+/.alg_meta/
+
+# ===================================== #
 # Visual Studio / Monodevelop generated #
 # ===================================== #
 /[Ll]ibrary/
@@ -7,9 +12,6 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
-
-# Substance Painter meta directory
-/.alg_meta/
 
 # Visual Studio 2015 cache directory
 /.vs/
